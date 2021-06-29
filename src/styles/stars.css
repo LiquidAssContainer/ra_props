@@ -1,0 +1,80 @@
+.movie-card {
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 25px;
+  display: flex;
+}
+
+.movie-card_cover {
+  position: relative;
+  top: -50px;
+  padding-bottom: 20px;
+  margin-right: 20px;
+}
+
+.movie-card_cover_img {
+  display: block;
+  max-width: 100%;
+  max-height: 190px;
+}
+
+.movie-card_genre {
+  position: absolute;
+  top: 15px;
+  right: -10px;
+
+  background-color: #ff982c;
+  border-radius: 2px;
+  padding: 3px 7px;
+
+  text-transform: uppercase;
+  color: #ffe111;
+}
+
+.movie-card_info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.movie-card_title {
+  font-size: 24px;
+  font-weight: 700;
+  color: #6f6f6f;
+}
+
+.movie-card_btn {
+  border: none;
+  padding: 10px 20px;
+  border-radius: 3px;
+
+  font-weight: 700;
+  text-transform: uppercase;
+
+  cursor: pointer;
+}
+
+.movie-card_buy-btn {
+  margin-right: 1px;
+  background-color: #9c948a;
+  color: #fff;
+}
+
+.movie-card_details-btn {
+  background-color: transparent;
+  color: #9c948a;
+}
+
+.star-list {
+  display: flex;
+}
+
+.star-item_icon {
+  fill: #ccc;
+}
+
+.star-item_icon.filled {
+  fill: #ecb663;
+}
