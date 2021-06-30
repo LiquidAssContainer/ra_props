@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9175dd18.chunk.css",
+    "main.js": "./static/js/main.92a44103.chunk.js",
+    "main.js.map": "./static/js/main.92a44103.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.ee6fd500.js",
+    "runtime-main.js.map": "./static/js/runtime-main.ee6fd500.js.map",
+    "static/js/2.cd3b85cd.chunk.js": "./static/js/2.cd3b85cd.chunk.js",
+    "static/js/2.cd3b85cd.chunk.js.map": "./static/js/2.cd3b85cd.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.9175dd18.chunk.css.map": "./static/css/main.9175dd18.chunk.css.map",
+    "static/js/2.cd3b85cd.chunk.js.LICENSE.txt": "./static/js/2.cd3b85cd.chunk.js.LICENSE.txt",
+    "static/media/no_image.1287f47e.jpg": "./static/media/no_image.1287f47e.jpg",
+    "static/media/superman_cover.78775d54.jpg": "./static/media/superman_cover.78775d54.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee6fd500.js",
+    "static/js/2.cd3b85cd.chunk.js",
+    "static/css/main.9175dd18.chunk.css",
+    "static/js/main.92a44103.chunk.js"
+  ]
+}
